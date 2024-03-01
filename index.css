@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body>h1{
+    color: red;
+}
+p{
+    font-weight: bold;
+}
+#im{
+    width:  600px;
+    height: 400px;
+}

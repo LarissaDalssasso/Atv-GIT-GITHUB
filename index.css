@@ -13,3 +13,13 @@ p{
     width:  600px;
     height: 400px;
 }
+#idnome{
+    width: 100px;
+    height: 20px;
+
+
+}
+form>button{
+    background-color: black;
+    color: #fff;
+}
